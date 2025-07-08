@@ -1,9 +1,10 @@
 # Student-Management-System
 
-![Java](https://img.shields.io/badge/Java-17-blue)
+![Java](https://img.shields.io/badge/Java-21-blue)
 ![Maven](https://img.shields.io/badge/Maven-4.0.0-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-green)
-![JDBC](https://img.shields.io/badge/JDBC-4.2-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-green)
+![JDBC](https://img.shields.io/badge/JDBC-4.3-orange)
+
 
 The **Student Management System** is a console-based application built using **Core Java**, **JDBC**, and **PostgreSQL**. It allows users to perform CRUD (Create, Read, Update, Delete) operations on student records stored in a PostgreSQL database. The application is menu-driven, providing a simple and intuitive interface for managing student data.
 
@@ -40,3 +41,11 @@ The project uses the following dependencies:
       <artifactId>postgresql</artifactId>
       <version>42.7.2</version>
   </dependency>
+
+ ## Contact
+ 
+For any questions or feedback, feel free to reach out:
+
+Your Name : Aditya Chippa
+Email: adityachippa321@gmail.com
+GitHub: Aditya-Chippa
