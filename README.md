@@ -49,3 +49,12 @@ For any questions or feedback, feel free to reach out:
 Your Name : Aditya Chippa
 Email: adityachippa321@gmail.com
 GitHub: Aditya-Chippa
+
+![image](https://github.com/user-attachments/assets/da4016b7-93ee-44ab-a545-20a0fec9638d)
+
+## Team Members
+
+1.Sathwik Dasari
+2.Samarth Kadam
+3.Omkar Borgaonkar
+4.Aniket Sutar
